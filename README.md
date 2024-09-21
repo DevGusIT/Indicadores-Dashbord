@@ -1,12 +1,11 @@
 # Dashboard de Dados Interativo
 
-![Logo do Projeto](caminho/para/logo.png)
-
 ## 📊 Sobre o Projeto
 
 Este é um sistema de **Dashboard de Dados** interativo, onde o usuário pode inserir informações como número de vendas e novos usuários, e visualizar gráficos gerados dinamicamente. O projeto foi desenvolvido para fornecer uma interface amigável e estética moderna.
 
-![Screenshot do Sistema](caminho/para/screenshot.png)
+![Captura de tela 2024-09-21 173238](https://github.com/user-attachments/assets/5f50a40b-98af-470c-901d-5eec90a92313)
+
 
 ---
 
