@@ -43,3 +43,12 @@ Este é um sistema de **Dashboard de Dados** interativo, onde o usuário pode in
 
 ```bash
 git clone https://github.com/seu-usuario/nome-do-repositorio.git
+cd nome-do-repositorio
+```
+2. Abra o arquivo index.html no navegador para vizualizar o dashboard.
+
+## 👨‍💻 Desenvolvido por
+
+- **Gustavo Moreno Souza**
+- [LinkedIn](https://www.linkedin.com/in/gustavo-moreno-8a925b26a/)
+
